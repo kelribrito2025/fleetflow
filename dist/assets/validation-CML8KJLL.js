@@ -1,0 +1,1 @@
+var e=/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;function t(t){let n=t.trim();return n?e.test(n)?null:`emailInvalid`:`emailRequired`}function n(e){return{length:Array.from(e).length>=12,symbol:/[0-9]|[^\p{L}\p{N}\s]/u.test(e),history:e.length>0}}function r(e){return`⁦${e}⁩`}export{r as n,n as r,t};

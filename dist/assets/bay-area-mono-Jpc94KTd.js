@@ -1,0 +1,1 @@
+var e=`/assets/bay-area-mono-CD3UWuvN.webp`;export{e as t};

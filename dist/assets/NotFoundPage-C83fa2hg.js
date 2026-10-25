@@ -1,0 +1,1 @@
+import{l as e}from"./Icon-D9Hi091T.js";import{f as t,t as n}from"./index-_9v5AofK.js";var r=e();function i(){return(0,r.jsx)(t,{className:`items-center justify-center`,children:(0,r.jsx)(n,{})})}export{i as default};

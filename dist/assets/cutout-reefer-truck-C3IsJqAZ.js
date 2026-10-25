@@ -1,0 +1,1 @@
+var e=`/assets/cutout-reefer-truck-DwKrNRvw.webp`;export{e as t};

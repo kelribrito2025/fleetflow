@@ -1,0 +1,5 @@
+# The demo stays out of search results through the X-Robots-Tag header in .htaccess.
+# Crawling stays open so search engines can read that header and so X, LinkedIn,
+# Slack and others can fetch the page to build a link preview.
+User-agent: *
+Allow: /
